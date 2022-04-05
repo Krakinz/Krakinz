@@ -7,7 +7,7 @@
       °°°     
       °°°     
 ```
-<img src="https://github.com/krakin?img.jpg">
+<img src="/images/87024922.png">
 
 <!---
 Krakinz/Krakinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
