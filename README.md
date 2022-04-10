@@ -1,9 +1,9 @@
 ````
- ╔════════════════╗
-║█                  ║█
-║█                  ║█
-║█                  ║█
- ╚════════════════╝                                                   
+ ╔════════════════█
+ ║█  ╔══𝐊𝐫𝐚𝐤𝐢𝐧𝐳═══════█   
+ ║█  ║ 𝐊𝐫𝐚𝐤𝐢𝐧𝐳𝐋𝐚𝐛═══════█   
+ ║█  ╚════𝐆𝐚𝐬𝐂𝐨𝐦𝐈𝐓══════█ 
+ ╚══════════════════════█                                                   
 ````
 [![Generic badge](https://img.shields.io/badge/Index_of-Repositories-blue.svg)](https://github.com/krakinz?tab=repositories)
 <img src="/images/87024922.png">
@@ -11,11 +11,11 @@
 <!--- Krakinz ©2022 --->
 ### Welcome to my GitHub!
 
-I am 22 years old, and I am actively looking for myself in IT ✨
+I am 22 years old Kenyan programmer and I am actively looking for myself in IT ✨
 
 For the past few years I have been writing AI projects in Python and JavaScript. I have a development experience in Node.js.
 
-I have a personal [Telegram channel](https://t.me/KrakinzC) ([the second one](https://t.me/hypevoidsoul)) and [a website](https://krakinz.repl.co/), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
+I have a personal [Telegram channel](https://t.me/KrakinzC) ([the second one](https://t.me/hypevoidsoul)) and a [website](https://krakinz.repl.co/), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
 
 ### Open Source Projects
 
