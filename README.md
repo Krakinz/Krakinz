@@ -6,7 +6,33 @@
  ╚══════════════════════█                                                   
 ````
 [![Generic badge](https://img.shields.io/badge/Index_of-Repositories-blue.svg)](https://github.com/krakinz?tab=repositories)
+
+
+<details><summary>TAP ME TO CHOSE REPOS</summary>
+<p>
+
+#### Yes, even hidden code blocks!
+
+```python
+print("hello there, this is Krankinz")
+```
+- [Norded](link.com) <br>
+- [Vlkyre](link.com) <br>
+- [Sasuke](link.com) <br>
+- [Pyrogram session maker](link.com) <br>
+- [Telegram Music Bot](link.com) <br>
+- [Multibord](link.com) <br>
+- [Userge](link.com) <br>
+- [Repo](link.com) <br>
+- [Repo](link.com) <br>
+- [Repo](link.com)
+
+
+</p>
+</details>
+
 <img src="/images/87024922_1.png">
+
 
 <!--- Krakinz ©2022 --->
 ### Welcome to my GitHub!
