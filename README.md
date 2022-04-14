@@ -16,17 +16,15 @@
 ```python
 print("hello there, this is Krankinz")
 ```
-- [Norded](link.com) <br>
-- [Vlkyre](link.com) <br>
-- [Sasuke](link.com) <br>
+- [Norded](https://github.com/Krakinz/Norded) <br>
+- [Vlkyre](https://github.com/Krakinz/Vlkyre) <br>
+- [Sasuke](https://github.com/Krakinz/Sasuke) <br>
 - [Pyrogram session maker](link.com) <br>
-- [Telegram Music Bot](link.com) <br>
-- [Multibord](link.com) <br>
-- [Userge](link.com) <br>
-- [Repo](link.com) <br>
-- [Repo](link.com) <br>
-- [Repo](link.com)
-
+- [KlawRobot](https://github.com/Krakinz/Klaw-Robot) <br>
+- [ScarLord](https://github.com/Krakinz/scarlord) <br>
+- [April](https://github.com/Krakinz/April) <br>
+- [Multibord](https://github.com/Krakinz/mainbot) <br>
+- [Foreing Userge](https://github.com/GasComIT/userge) <br>
 
 </p>
 </details>
@@ -46,7 +44,8 @@ I have a personal [Telegram channel](https://t.me/KrakinzC) ([the second one](ht
 ### Open Source Projects
 
 - [Telegram Bots](https://github.com/krakinz/Norded) — a Python made music bot for both private incoming and group use.
-  - Telegram channel [Norded](https://t.me/hypevoidsouls).
+  - Telegram chat [HypeVoidSoul](https://t.me/hypevoidsoul).
+  - Telegram channel [Krakinz](https://t.me/krakinzc) 
   - Telegram chat [@GasComIT](https://t.me/gascomit).
 - [WhatsApp Bot](https://github.com/krakinz/Vlkyre) — a Python high level interface for the private yandex music API.
   - Telegram chat [•| VLKYRE |•](https://chat.whatsapp.com/F7P1kIbPiQHIjmD4DgVWDF).
@@ -55,7 +54,7 @@ I have a personal [Telegram channel](https://t.me/KrakinzC) ([the second one](ht
 
 ### Closed Source Projects
 
-- Telegram bot [Norded Music Bot](https://t.me/ai40bot) — a full-featured client of music service in the form of a bot in a messenger. You can use the bot privately or in a groupchat
+- Telegram bot [Norded Music Bot](https://t.me/Norded_Bit) — a full-featured client of music service in the form of a bot in a messenger. You can use the bot privately or in a groupchat
 - Telegram bot [Userge User Bot](https://t.me/therubbybot) — a full featured teglegram channel amd group management bot with 114 commands
 
 ### Useful links
