@@ -39,7 +39,7 @@ I am 22 years old Kenyan programmer and I am actively looking for myself in IT â
 
 For the past few years I have been writing AI projects in Python and JavaScript. I have a development experience in Node.js.
 
-I have a personal [Telegram channel](https://t.me/KrakinzC) ([the second one](https://t.me/hypevoidsoul)) and a [website](https://krakinz.repl.co/), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
+I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one](https://t.me/krakinzc)) and a [website](https://krakinz.repl.co/), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
 
 ### Open Source Projects
 
