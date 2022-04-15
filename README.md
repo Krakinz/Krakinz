@@ -20,6 +20,7 @@ print("hello there, this is Krankinz")
 - [Vlkyre](https://github.com/Krakinz/Vlkyre) <br>
 - [Sasuke](https://github.com/Krakinz/Sasuke) <br>
 - [YouTify](https://github.com/Krakinz/YouTify) <br>
+- [XeTron](https://github.com/Krakinz/XeTron) <br>
 - [Pyrogram session maker](link.com) <br>
 - [KlawRobot](https://github.com/Krakinz/Klaw-Robot) <br>
 - [ScarLord](https://github.com/Krakinz/scarlord) <br>
