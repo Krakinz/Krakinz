@@ -5,6 +5,9 @@
  ║█  ╚════𝐆𝐚𝐬𝐂𝐨𝐦𝐈𝐓══════█ 
  ╚══════════════════════█                                                   
 ````
+
+- Check my website [here](http://625b19848cd1b.site123.me/)
+- •|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•
 [![Generic badge](https://img.shields.io/badge/Index_of-Repositories-blue.svg)](https://github.com/krakinz?tab=repositories)
 
 
@@ -14,18 +17,18 @@
 #### Yes, even hidden code blocks!
 
 ```python
-print("hello there, this is Krankinz")
+print("hellooo, this is Krakinz")
 ```
 - [Norded](https://github.com/Krakinz/Norded) <br>
 - [Vlkyre](https://github.com/Krakinz/Vlkyre) <br>
 - [Sasuke](https://github.com/Krakinz/Sasuke) <br>
 - [YouTify](https://github.com/Krakinz/YouTify) <br>
 - [XeTron](https://github.com/Krakinz/XeTron) <br>
-- [Pyrogram session maker](link.com) <br>
+- [Pyrogram session maker](https://github.com/krakimz/pyrogram-session-maker) <br>
 - [KlawRobot](https://github.com/Krakinz/Klaw-Robot) <br>
 - [ScarLord](https://github.com/Krakinz/scarlord) <br>
 - [April](https://github.com/Krakinz/April) <br>
-- [Multibord](https://github.com/Krakinz/mainbot) <br>
+- [Multibot](https://github.com/Krakinz/Multibot) <br>
 - [Foreing Userge](https://github.com/GasComIT/userge) <br>
 
 </p>
@@ -41,7 +44,7 @@ I am 22 years old Kenyan programmer and I am actively looking for myself in IT �
 
 For the past few years I have been writing AI projects in Python and JavaScript. I have a development experience in Node.js.
 
-I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one](https://t.me/krakinzc)) and a [website](https://krakinz.repl.co/), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
+I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one](https://t.me/krakinzc)) and a [website](https://bit.ly/3rwkQdU), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
 
 ### Open Source Projects
 
