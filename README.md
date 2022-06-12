@@ -11,7 +11,7 @@
 [![Generic badge](https://img.shields.io/badge/Index_of-Repositories-blue.svg)](https://github.com/krakinz?tab=repositories)
 
 
-<details><summary>TAP ME TO CHOSE REPOS</summary>
+<details><summary>TAP ME TO VIEW SOME</summary>
 <p>
 
 #### Yes, even hidden code blocks!
@@ -44,7 +44,7 @@ I am 22 years old Kenyan programmer and I am actively looking for myself in IT â
 
 For the past few years I have been writing AI projects in Python and JavaScript. I have a development experience in Node.js.
 
-I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one](https://t.me/krakinzc)) and a [website](https://bit.ly/3rwkQdU), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
+I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one](https://t.me/krakinzc)) and a [website](krakinzlab.com/), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
 
 ### Open Source Projects
 
