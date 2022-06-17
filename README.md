@@ -6,7 +6,7 @@
  ╚══════════════════════█                                                   
 ````
 
-- Check my website [here](http://625b19848cd1b.site123.me/)
+- Check my website https://krakinzlab.com
 - •|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•
 [![Generic badge](https://img.shields.io/badge/Index_of-Repositories-blue.svg)](https://github.com/krakinz?tab=repositories)
 
@@ -44,7 +44,7 @@ I am 22 years old Kenyan programmer and I am actively looking for myself in IT �
 
 For the past few years I have been writing AI projects in Python and JavaScript. I have a development experience in Node.js.
 
-I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one](https://t.me/krakinzc)) and a [website](krakinzlab.com/), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
+I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one](https://t.me/krakinzc)) and a [website](https://krakinzlab.com/), where I post fascinating articles sometimes. My tasks for the next few years are to improve my Spanish, prepare for algorithmic and system design interviews.
 
 ### Open Source Projects
 
