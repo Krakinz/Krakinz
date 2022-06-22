@@ -34,7 +34,7 @@ print("hellooo, this is Krakinz")
 </p>
 </details>
 
-<img src="/images/87024922_1.png">
+<img height=200px width=200px src="/images/87024922_1.png">
 
 
 <!--- Krakinz ©2022 --->
@@ -60,10 +60,10 @@ I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one
 ### Closed Source Projects
 
 - Telegram bot [Norded Music Bot](https://t.me/Norded_Bit) — a full-featured client of music service in the form of a bot in a messenger. You can use the bot privately or in a groupchat
-- Telegram bot [Userge User Bot](https://t.me/therubbybot) — a full featured teglegram channel amd group management bot with 114 commands
+- Telegram bot [Userge User Bot](https://t.me/therubbybot) — a full featured teglegram channel and group management bot with 114 commands
 
 ### Useful links
-- [Website](httos://krakinzlab.com)
+- [Website](https://krakinzlab.com)
 - [Telegram](https://t.me/krakinz)
 - [Patreon](https://www.patreon.com/krakinzkon)
 - [Twitter](https://twitter.com/krakinzkon)
