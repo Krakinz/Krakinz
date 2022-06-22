@@ -34,7 +34,7 @@ print("hellooo, this is Krakinz")
 </p>
 </details>
 
-<img height=200px width=200px src="/images/87024922_1.png">
+<img height=30% width=100% src="/images/Polish_20220622_183445695.png">
 
 
 <!--- Krakinz ©2022 --->
