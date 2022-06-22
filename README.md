@@ -63,9 +63,11 @@ I have a personal [Telegram channel](https://t.me/hypevoidsoul) ([the second one
 - Telegram bot [Userge User Bot](https://t.me/therubbybot) — a full featured teglegram channel amd group management bot with 114 commands
 
 ### Useful links
+- [Website](httos://krakinzlab.com)
+- [Telegram](https://t.me/krakinz)
+- [Patreon](https://www.patreon.com/krakinzkon)
+- [Twitter](https://twitter.com/krakinzkon)
+- [Instagram](https://www.instagram.com/krakinzkon)
 
-- [Telegram](https://t.me/qtell)
-- [Patreon](https://www.patreon.com/)
-- [Twitter](https://twitter.com/gascomit)
-- [Instagram](https://www.instagram.com/roycebobelwillie/)
-- [Habr](https://habr.com/ru/users/)
+
+![Github Activity Graph](https://krakinz-github.herokuapp.com/graph?username=krakinz)
