@@ -39,7 +39,7 @@
 <a href="https://github.com/kenyaofficial/Jetpack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kenyanofficial&repo=jetpack&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Jetoack"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Krakinz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 #### 🌱 I’m currently learning **Python, Java, Node.js, HTML, CSS**
