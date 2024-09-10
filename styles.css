@@ -1,0 +1,346 @@
+/* Body Styling */
+body {
+    background-color: #343a40; /* A dark charcoal color with a hint of blue/purple */
+    color: #e0e0e0; /* Light grey text color for readability */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Links Styling */
+a {
+    color: #c792ea; /* Soft purple for links */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffcb6b; /* Warm yellow for hovered links */
+}
+
+/* Header Styles */
+header {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+    animation: fadeIn 2s ease-in-out;
+    border-bottom: 4px solid #2575fc; /* Add a border for a bold look */
+}
+
+.logo-name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.logo {
+    width: 60px; /* Slightly larger logo for more impact */
+    height: auto;
+    border-radius: 50%; /* Optional: Rounded logo for a polished look */
+}
+
+header h1 {
+    font-size: 3.5em; /* Larger font size for a stronger presence */
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add shadow for better readability */
+}
+
+header p {
+    font-size: 1.5em; /* Slightly larger font size */
+    margin: 10px 0 0;
+}
+
+/* Navigation Styles */
+nav ul {
+    background: #343a40;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    border-bottom: 2px solid #495057; /* Add a border for separation */
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 15px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: background 0.3s, transform 0.3s;
+    border-radius: 5px; /* Rounded corners for buttons */
+}
+
+nav ul li a:hover {
+    background: #495057;
+    color: #fff;
+    transform: scale(1.05); /* Slight zoom effect on hover */
+}
+
+/* Section Styles */
+section {
+    #max-width: 100%;
+    margin: 20px auto; /* Center align and add margin */
+    background: #0e1018;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Enhanced shadow for depth */
+    padding: 30px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    animation: fadeIn 1s ease-in-out;
+}
+
+section h2 {
+    font-size: 2.8em;
+    margin-bottom: 20px;
+    color: #2575fc;
+    position: relative;
+    text-align: center;
+    padding-bottom: 10px; /* Space for underline */
+    border-bottom: 2px solid #2575fc; /* Underline effect */
+}
+
+section p {
+    font-size: 1.3em;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Project Cards */
+#portfolio {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+gap: 20px;
+padding: 20px;
+}
+
+.portfolio-h {
+    background: #222; /* Darker background for better contrast */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: left;
+    margin: 10px;
+}
+
+.button-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.github-button, .gitlab-button {
+    display: inline-flex;
+    align-items: center;
+    background-color: #333; /* GitHub color */
+    color: #fff;
+    padding: 10px 15px; /* Increased padding for better click area */
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    margin-right: 10px;
+}
+
+.github-button:hover {
+    background-color: #444;
+    transform: scale(1.05);
+}
+
+.gitlab-button {
+    background-color: #fca326; /* GitLab color */
+}
+
+.gitlab-button:hover {
+    background-color: #e8911c;
+}
+
+.github-button i, .gitlab-button i {
+    margin-right: 8px;
+    font-size: 18px;
+}
+
+.portfolio-h:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.project-card {
+    background: #e0e0e0;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.project-card h3 {
+    font-size: 1.6em;
+    margin-bottom: 15px;
+    color: #2575fc;
+}
+
+.project-card p {
+    font-size: 1em;
+    color: #555;
+    text-align: left;
+}
+
+.project-card a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: #2575fc;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.project-card a:hover {
+    background: #6a11cb;
+}
+
+/* Skills and Contact Wrapper */
+#skills-contact-wrapper {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+gap: 30px;
+padding: 30px;
+align-items: start;
+}
+
+/* Skills Section */
+#skills {
+padding: 20px;
+}
+
+.skills-bar {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 15px;
+}
+
+.skill {
+    margin-bottom: 15px;
+}
+
+.skill h4 {
+    font-size: 1.4em;
+    margin-bottom: 5px;
+}
+
+.progress {
+    background: #e9ecef;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    width: 0;
+    height: 15px;
+    background: #2575fc;
+    animation: fillBar 2s forwards;
+}
+
+/* Contact Section */
+#contact {
+margin-top: 15px;
+padding: 20px;
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+
+#contact a {
+display: inline-block;
+padding: 10px 20px;
+background: #6a11cb;
+color: #fff;
+border-radius: 5px;
+text-decoration: none;
+text-align: center;
+transition: background 0.3s;
+width: 100%;
+max-width: 250px;
+box-sizing: border-box;
+}
+
+#contact a:hover {
+background: #2575fc;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Animations */
+@keyframes fillBar {
+    0% {
+        width: 0;
+        background-color: #6a11cb; /* Starting color */
+    }
+    50% {
+        width: 50%; /* Halfway point */
+        background-color: #5a09d2; /* Slightly different color for effect */
+    }
+    100% {
+        width: var(--skill-level);
+        background-color: #2575fc; /* Final color */
+    }
+}
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.5em;
+    }
+
+    nav ul li {
+        display: block;
+    }
+
+    .project-card {
+        width: 100%;
+    }
+
+    section {
+        padding: 20px 10px;
+    }
+}
